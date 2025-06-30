@@ -17,3 +17,6 @@ This project creates an EC2 instance with a web server (Apache) and sets up Clou
 - sudo systemctl start httpd
 - sudo systemctl enable httpd
 
+## Demo
+
+![CloudWatch Dashboard](screenshots/cloudwatch-dashboard.png)
